@@ -1,4 +1,4 @@
-# Hyper-tunning-Logistic_Regrssion
+# Hyper-tunning-Logistic_Regression
 
 Hyper_tunning in logistic Regression
 
